@@ -1,3 +1,10 @@
+//*****************************************
+//	ECE4960
+//	in class hacker: denormals
+//	2/1/2019
+//	Hongliang Si (hs983@cornell.edu)	
+//*****************************************
+
 #include <iostream>
 #include <cmath>
 #include <iomanip>
